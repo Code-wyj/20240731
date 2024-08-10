@@ -1,4 +1,5 @@
-int main()
+#include<stdio.h>
+double main()
 {
-	return 0;
+
 }
